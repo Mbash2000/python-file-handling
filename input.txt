@@ -1,0 +1,3 @@
+Hello, this is my File Handling assignment.
+Python makes file reading and writing easy.
+Exception handling helps prevent crashes.
